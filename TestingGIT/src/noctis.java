@@ -1,5 +1,5 @@
 
-public class testing {
+public class noctis {
 	public void main(String[] args) {
 		System.out.println("Prepare time to dead");
 //		+_+ !!!
